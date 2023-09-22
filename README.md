@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Mern Stack, Java Full Stack.**
 
-- 👨‍💻 Check out my personal portfolio : <a href="https://647393bd33d8b80007d7b73d--charming-sunshine-ea4ab2.netlify.app/">Portfolio</a>
+- 👨‍💻 Check out my personal portfolio : <a href="https://charming-sunshine-ea4ab2.netlify.app/">Portfolio</a>
 - 📫 How to reach me **dk16092016@gmail.com**
 
 - 📄 Check out my resume : <a href="https://drive.google.com/file/d/1r7kv54laQPDvTfXMp24v65FkL-pOQHzZ/view?usp=sharing">Resume</a>
